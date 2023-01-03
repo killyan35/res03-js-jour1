@@ -1,0 +1,13 @@
+const character = "Legolas";
+let name = "Legolas";
+console.log (`${name}`);
+name ="Gimli";
+console.log (`${name}`);
+let nombre = 100000;
+console.log (`${nombre}`);
+let nombre2 = -1;
+console.log (`${nombre2}`);
+let yes = true;
+let no = false;
+console.log (`${yes}`);
+console.log (`${no}`);
